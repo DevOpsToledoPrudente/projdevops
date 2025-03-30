@@ -1,4 +1,4 @@
 def saudacao():
-    return "Este é um projeto de DevOps no GitHub."
+    return "Hello, world! Este é um projeto de DevOps no Git."
 
 print(saudacao())
